@@ -1,0 +1,4 @@
+-DWIN32
+-o
+C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/moc_glwidget.cpp
+C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/glwidget.h

@@ -1,0 +1,3 @@
+C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/OpenGLBpp.dir
+C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,29 @@
+﻿Build started 8/11/2016 12:22:34 AM.
+     1>Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\OpenGLBpp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /IC:\Qt\5.5\msvc2013_64\include /IC:\Qt\5.5\msvc2013_64\include\QtWidgets /IC:\Qt\5.5\msvc2013_64\include\QtGui /IC:\Qt\5.5\msvc2013_64\include\QtCore /I"C:\Qt\5.5\msvc2013_64\.\mkspecs\win32-msvc2013" /IC:\Qt\5.5\msvc2013_64\include\QtOpenGL /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /nologo /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D QT_WIDGETS_LIB /D QT_GUI_LIB /D QT_CORE_LIB /D QT_OPENGL_LIB /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"OpenGLBpp.dir\Debug\\" /Fd"OpenGLBpp.dir\Debug\vc120.pdb" /Gd /TP /errorReport:prompt C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp
+         mainwindow.cpp
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(259): warning C4101: 'box_z' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(260): warning C4101: 'orien_x' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(260): warning C4101: 'orien_z' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(259): warning C4101: 'box_y' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(259): warning C4101: 'box_x' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(260): warning C4101: 'orien_y' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(261): warning C4101: 'bin_no' : unreferenced local variable
+     1>C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\mainwindow.cpp(262): warning C4101: 'item_no' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\Debug\OpenGLBpp.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib C:\Qt\5.5\msvc2013_64\lib\Qt5OpenGLd.lib glu32.lib opengl32.lib C:\Qt\5.5\msvc2013_64\lib\Qt5Widgetsd.lib C:\Qt\5.5\msvc2013_64\lib\Qt5Guid.lib C:\Qt\5.5\msvc2013_64\lib\Qt5Cored.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/Debug/OpenGLBpp.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/Debug/OpenGLBpp.lib" /MACHINE:X64  /machine:x64 OpenGLBpp.dir\Debug\binpack_erhan_modify.obj
+         OpenGLBpp.dir\Debug\CalculateBppErhan.obj
+         OpenGLBpp.dir\Debug\mycolor.obj
+         OpenGLBpp.dir\Debug\readwritefile.obj
+         OpenGLBpp.dir\Debug\glwidget.obj
+         OpenGLBpp.dir\Debug\main.obj
+         OpenGLBpp.dir\Debug\mainwindow.obj
+         OpenGLBpp.dir\Debug\moc_glwidget.obj
+         OpenGLBpp.dir\Debug\moc_mainwindow.obj
+         OpenGLBpp.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\Debug\OpenGLBpp.exe
+     1>Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\OpenGLBpp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.24

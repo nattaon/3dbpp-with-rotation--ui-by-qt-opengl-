@@ -1,0 +1,343 @@
+The system is: Windows - 6.3.9600 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:50:51 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\3.5.0\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X64 Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\3.5.0\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\3.5.0\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:04.85
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/3.5.0/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:50:56 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\3.5.0\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /nologo /W0 /WX- /Od /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X64 Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\3.5.0\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\3.5.0\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.37
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/3.5.0/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_b1770.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:50:57 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_b1770.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_b1770.dir\Debug\".
+  Creating directory "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_b1770.dir\Debug\cmTC_b1770.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_b1770.dir\Debug\cmTC_b1770.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_b1770.dir\Debug\\" /Fd"cmTC_b1770.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_b1770.dir\Debug\\" /Fd"cmTC_b1770.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\testCCompiler.c
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_b1770.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_b1770.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_b1770.lib" /MACHINE:X64  /machine:x64 cmTC_b1770.dir\Debug\testCCompiler.obj
+  cmTC_b1770.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_b1770.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_b1770.dir\Debug\cmTC_b1770.tlog\unsuccessfulbuild".
+  Touching "cmTC_b1770.dir\Debug\cmTC_b1770.tlog\cmTC_b1770.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_b1770.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.64
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_dd334.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:50:58 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_dd334.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_dd334.dir\Debug\".
+  Creating directory "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_dd334.dir\Debug\cmTC_dd334.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_dd334.dir\Debug\cmTC_dd334.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_dd334.dir\Debug\\" /Fd"cmTC_dd334.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"cmTC_dd334.dir\Debug\\" /Fd"cmTC_dd334.dir\Debug\vc120.pdb" /Gd /TC /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_dd334.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_dd334.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_dd334.lib" /MACHINE:X64  /machine:x64 cmTC_dd334.dir\Debug\CMakeCCompilerABI.obj
+  cmTC_dd334.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_dd334.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_dd334.dir\Debug\cmTC_dd334.tlog\unsuccessfulbuild".
+  Touching "cmTC_dd334.dir\Debug\cmTC_dd334.tlog\cmTC_dd334.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_dd334.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.56
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_55167.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:50:58 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_55167.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_55167.dir\Debug\".
+  Creating directory "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_55167.dir\Debug\cmTC_55167.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_55167.dir\Debug\cmTC_55167.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_55167.dir\Debug\\" /Fd"cmTC_55167.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_55167.dir\Debug\\" /Fd"cmTC_55167.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_55167.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_55167.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_55167.lib" /MACHINE:X64  /machine:x64 cmTC_55167.dir\Debug\testCXXCompiler.obj
+  cmTC_55167.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_55167.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_55167.dir\Debug\cmTC_55167.tlog\unsuccessfulbuild".
+  Touching "cmTC_55167.dir\Debug\cmTC_55167.tlog\cmTC_55167.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_55167.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.52
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_3c799.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:50:59 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_3c799.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_3c799.dir\Debug\".
+  Creating directory "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_3c799.dir\Debug\cmTC_3c799.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_3c799.dir\Debug\cmTC_3c799.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_3c799.dir\Debug\\" /Fd"cmTC_3c799.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_3c799.dir\Debug\\" /Fd"cmTC_3c799.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.5\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_3c799.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_3c799.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_3c799.lib" /MACHINE:X64  /machine:x64 cmTC_3c799.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTC_3c799.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_3c799.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_3c799.dir\Debug\cmTC_3c799.tlog\unsuccessfulbuild".
+  Touching "cmTC_3c799.dir\Debug\cmTC_3c799.tlog\cmTC_3c799.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_3c799.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.43
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/12.0/bin/MSBuild.exe" "cmTC_5993d.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=12.0"
+Microsoft (R) Build Engine version 12.0.40629.0
+[Microsoft .NET Framework, version 4.0.30319.42000]
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 8/10/2016 3:51:00 PM.
+Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_5993d.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTC_5993d.dir\Debug\".
+  Creating directory "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTC_5993d.dir\Debug\cmTC_5993d.tlog\".
+InitializeBuildStatus:
+  Creating "cmTC_5993d.dir\Debug\cmTC_5993d.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_5993d.dir\Debug\\" /Fd"cmTC_5993d.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\feature_tests.cxx
+  Microsoft (R) C/C++ Optimizing Compiler Version 18.00.40629 for x64
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /I"C:\Program Files (x86)\Visual Leak Detector\include" /Zi /W3 /WX- /Od /Ob0 /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"cmTC_5993d.dir\Debug\\" /Fd"cmTC_5993d.dir\Debug\vc120.pdb" /Gd /TP /errorReport:queue C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\feature_tests.cxx
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_5993d.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Program Files (x86)\Visual Leak Detector\lib\Win64" kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_5993d.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/CMakeTmp/Debug/cmTC_5993d.lib" /MACHINE:X64  /machine:x64 cmTC_5993d.dir\Debug\feature_tests.obj
+  cmTC_5993d.vcxproj -> C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\Debug\cmTC_5993d.exe
+FinalizeBuildStatus:
+  Deleting file "cmTC_5993d.dir\Debug\cmTC_5993d.tlog\unsuccessfulbuild".
+  Touching "cmTC_5993d.dir\Debug\cmTC_5993d.tlog\cmTC_5993d.lastbuildstate".
+Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\CMakeFiles\CMakeTmp\cmTC_5993d.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.62
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:0cxx_alignas
+    Feature record: CXX_FEATURE:0cxx_alignof
+    Feature record: CXX_FEATURE:0cxx_attributes
+    Feature record: CXX_FEATURE:0cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:0cxx_binary_literals
+    Feature record: CXX_FEATURE:0cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:0cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:0cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:0cxx_deleted_functions
+    Feature record: CXX_FEATURE:0cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:0cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:0cxx_generic_lambdas
+    Feature record: CXX_FEATURE:0cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:0cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:0cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:0cxx_noexcept
+    Feature record: CXX_FEATURE:0cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:0cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:0cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:0cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:0cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:0cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:0cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:0cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates

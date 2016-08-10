@@ -1,0 +1,10 @@
+﻿Build started 8/10/2016 3:51:19 PM.
+     1>Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\ZERO_CHECK.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Checking Build System
+         CMake does not need to re-run because C:/Users/mionzz/Desktop/my_3dbpp_project/qt_bpp/build/CMakeFiles/generate.stamp is up-to-date.
+     1>Done Building Project "C:\Users\mionzz\Desktop\my_3dbpp_project\qt_bpp\build\ZERO_CHECK.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.40
